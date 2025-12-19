@@ -1,0 +1,8 @@
+{
+  "name": "Ytube Clone",
+  "description": "A high-fidelity responsive video sharing platform clone with multiple screens including home feed, video playback, channel profiles, and upload functionality.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
